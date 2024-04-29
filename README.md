@@ -9,7 +9,7 @@ Learn to use Azure ML workspace to manage the resources and assets for ML operat
 - Identify common machine learning techniques.
 - Describe Azure Machine Learning capabilities.
 - Create a regression model using Azure ML.
-- Experiment with different regression algorithms within Azure Automated ML.
+- Evaluate and test a regression algorithm within Azure Automated ML.
 
 ## What will you learn?
 - Automated ML
@@ -17,8 +17,8 @@ Learn to use Azure ML workspace to manage the resources and assets for ML operat
 - Create a regression model
 
 ## Prerequisites
-- Basic understanding of Machine Learning and AI concepts.
-- Basic knowledge of Azure services and navigation of the Azure portal.
+- Basic understanding of ML and AI concepts.
+- Basic knowledge of Azure ML service and navigation of the Azure portal.
 
 ## Learn More & Enrol
 https://www.udemy.com/labs/4038/overview
