@@ -3,7 +3,7 @@
 Training a Machine Learning Model using Automated ML
 
 ## Overview
-Learn to use Azure ML workspace to manage the resources and assets for ML operations. In this lab, you will create and run your first Notebook using Azure Portal.
+Learn to create a machine-learning model that can accurately predict the temperature for the next day based on historical weather data. 
 
 ## Learning Objectives
 - Identify common machine learning techniques.
