@@ -21,4 +21,4 @@ Learn to create a machine-learning model that can accurately predict the tempera
 - Basic knowledge of Azure ML service and navigation of the Azure portal.
 
 ## Learn More & Enrol
-https://www.udemy.com/labs/4038/overview
+https://www.udemy.com/labs/training-a-machine-learning-model-using-automated-ml
